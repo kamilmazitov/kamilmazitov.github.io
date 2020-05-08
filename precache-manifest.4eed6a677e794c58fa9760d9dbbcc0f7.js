@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "375cdb5f219ab90e07ecc5fecfefd2f9",
+    "revision": "5543c0a077c7f2c6ab01b924fa1c57b1",
     "url": "/index.html"
   },
   {
-    "revision": "87247b8b044bbec2da8e",
-    "url": "/static/css/main.4497ab88.chunk.css"
+    "revision": "63352138a9788580adc7",
+    "url": "/static/css/main.33729835.chunk.css"
   },
   {
-    "revision": "58b0116da3dfce871259",
-    "url": "/static/js/2.52d5cbff.chunk.js"
+    "revision": "1a640d9f0b72a9e4418b",
+    "url": "/static/js/2.0ddc8ed3.chunk.js"
   },
   {
-    "revision": "87247b8b044bbec2da8e",
-    "url": "/static/js/main.b4e48d54.chunk.js"
+    "revision": "63352138a9788580adc7",
+    "url": "/static/js/main.fcd88ca1.chunk.js"
   },
   {
     "revision": "40133c474408ce392782",
@@ -106,9 +106,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/static/media/talksCardBack.0288c5ec.svg"
   }
 ]);
